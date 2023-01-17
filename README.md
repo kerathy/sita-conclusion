@@ -1,10 +1,10 @@
 # sita-conclusion
 
-submission:
+Submission:
 
 
-fullstack:
+Fullstack:
 
 
-angular:
+Angular:
 
